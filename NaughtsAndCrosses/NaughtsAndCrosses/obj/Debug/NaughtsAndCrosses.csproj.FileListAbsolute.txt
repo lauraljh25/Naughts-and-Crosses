@@ -1,0 +1,10 @@
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe.config
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.pdb
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.csprojAssemblyReference.cache
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.NC.resources
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.Properties.Resources.resources
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.csproj.GenerateResource.cache
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.csproj.CoreCompileInputs.cache
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.exe
+c:\users\laura\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.pdb
