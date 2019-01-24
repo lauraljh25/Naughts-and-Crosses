@@ -219,8 +219,6 @@ namespace NaughtsAndCrosses
                 labelAI[selectedLbl].Text = txtPlayer2;
                 labelAI.RemoveAt(selectedLbl);
             }
-
-
         }
 
         public NC()
