@@ -220,12 +220,6 @@ namespace NaughtsAndCrosses
                 labelAI.RemoveAt(selectedLbl);
             }
 
-            //List<Label> avaliablelabels = new List<Label>();
-            //if there are two labels in a row that are o
-            //if there are two labels in a column that are x 
-            //check diagonals 
-            //tableLayoutPanel1.GetControlFromPosition(1,1);
-
 
         }
 
